@@ -1,6 +1,6 @@
 # WindowTest
 This is a project demonstrating a bug where the wrong point is passed to
-`hitTest:withEvent:` and `touchesBegan:withEvent:` for a second UIWindow.
+`hitTest:withEvent:` and `touchesBegan:withEvent:` for a second UIWindow. Filed as rdar://20350412.
 
 ## Steps to Reproduce
 1. Launch the attached example app (on device or in the iOS Simulator)
